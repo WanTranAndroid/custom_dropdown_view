@@ -1,7 +1,9 @@
 name: custom_dropdown_view
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+description: A simple widget dropdown. You can custom all style you need!
+version: 1.0.0
+authors:
+  - QuanTran<tranhongquan144@gmail.com>
+homepage: https://github.com/WanTranAndroid/custom_dropdown_view
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -15,10 +17,6 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
-
-# The following section is specific to Flutter.
 flutter:
 
   # To add assets to your package, add an assets section, like this:
